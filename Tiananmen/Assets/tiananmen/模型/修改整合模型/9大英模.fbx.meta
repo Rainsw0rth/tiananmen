@@ -3,7 +3,12 @@ guid: 33026eb963497b14ca9486978ef65988
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__phong5
+    second: {fileID: 2100000, guid: 3fec89244e79a074a9cfa8075423a020, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
