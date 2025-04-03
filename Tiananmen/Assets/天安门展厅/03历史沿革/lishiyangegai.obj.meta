@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 23470bde9311dd84385156bea0deb51c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: lishiyange_2U_1
+    100002: lishiyange_2U_2
+    100004: lishiyange_2U_3
+    100006: lishiyange_2U_4
+    100008: lishiyange_2U_5
+    100010: lishiyange_2U_6
+    100012: lishiyange_2U_7
+    100014: lishiyange_2U_8
+    100016: lishiyange_2U_9
+    100018: //RootNode
+    100020: LSYG_neirong1001_1
+    100022: LSYG_neirong1001_2
+    100024: LSYG_neirong1001_3
+    100026: LSYG_neirong1001_4
+    100028: LSYG_neirong1001_5
+    400000: lishiyange_2U_1
+    400002: lishiyange_2U_2
+    400004: lishiyange_2U_3
+    400006: lishiyange_2U_4
+    400008: lishiyange_2U_5
+    400010: lishiyange_2U_6
+    400012: lishiyange_2U_7
+    400014: lishiyange_2U_8
+    400016: lishiyange_2U_9
+    400018: //RootNode
+    400020: LSYG_neirong1001_1
+    400022: LSYG_neirong1001_2
+    400024: LSYG_neirong1001_3
+    400026: LSYG_neirong1001_4
+    400028: LSYG_neirong1001_5
+    2100000: lishiyange_2U_1Mat
+    2100002: lishiyange_2U_2Mat
+    2100004: lishiyange_2U_3Mat
+    2100006: lishiyange_2U_4Mat
+    2100008: lishiyange_2U_5Mat
+    2100010: lishiyange_2U_6Mat
+    2100012: lishiyange_2U_7Mat
+    2100014: lishiyange_2U_8Mat
+    2100016: lishiyange_2U_9Mat
+    2100018: LSYG_neirong1001_1Mat
+    2100020: LSYG_neirong1001_2Mat
+    2100022: LSYG_neirong1001_3Mat
+    2100024: LSYG_neirong1001_4Mat
+    2100026: LSYG_neirong1001_5Mat
+    2300000: lishiyange_2U_1
+    2300002: lishiyange_2U_2
+    2300004: lishiyange_2U_3
+    2300006: lishiyange_2U_4
+    2300008: lishiyange_2U_5
+    2300010: lishiyange_2U_6
+    2300012: lishiyange_2U_7
+    2300014: lishiyange_2U_8
+    2300016: lishiyange_2U_9
+    2300018: LSYG_neirong1001_1
+    2300020: LSYG_neirong1001_2
+    2300022: LSYG_neirong1001_3
+    2300024: LSYG_neirong1001_4
+    2300026: LSYG_neirong1001_5
+    3300000: lishiyange_2U_1
+    3300002: lishiyange_2U_2
+    3300004: lishiyange_2U_3
+    3300006: lishiyange_2U_4
+    3300008: lishiyange_2U_5
+    3300010: lishiyange_2U_6
+    3300012: lishiyange_2U_7
+    3300014: lishiyange_2U_8
+    3300016: lishiyange_2U_9
+    3300018: LSYG_neirong1001_1
+    3300020: LSYG_neirong1001_2
+    3300022: LSYG_neirong1001_3
+    3300024: LSYG_neirong1001_4
+    3300026: LSYG_neirong1001_5
+    4300000: lishiyange_2U_1
+    4300002: lishiyange_2U_2
+    4300004: lishiyange_2U_3
+    4300006: lishiyange_2U_4
+    4300008: lishiyange_2U_5
+    4300010: lishiyange_2U_6
+    4300012: lishiyange_2U_7
+    4300014: lishiyange_2U_8
+    4300016: lishiyange_2U_9
+    4300018: LSYG_neirong1001_1
+    4300020: LSYG_neirong1001_2
+    4300022: LSYG_neirong1001_3
+    4300024: LSYG_neirong1001_4
+    4300026: LSYG_neirong1001_5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
