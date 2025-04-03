@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 452486df643ac0b49851838cde87be18
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -5687092627575623685
+    second: zb_WJ_yf|zb_bag1|Take 001|BaseLayer
+  - first:
+      74: -4511931913965772055
+    second: zb_WJ_yf|zb_bag2|Take 001|BaseLayer
+  - first:
+      74: -8861481910901388771
+    second: zb_WJ_yf|zb_bag|Take 001|BaseLayer
+  - first:
+      74: -3787750080619752150
+    second: zb_WJ_yf|zb_BAO|Take 001|BaseLayer
+  - first:
+      74: -4493905415344293395
+    second: zb_WJ_yf|zb_Dj1|Take 001|BaseLayer
+  - first:
+      74: -9031047658312293240
+    second: zb_WJ_yf|zb_Dj|Take 001|BaseLayer
+  - first:
+      74: -8160079926296815315
+    second: zb_WJ_yf|zb_wj_bag|Take 001|BaseLayer
+  - first:
+      74: 2718478432807999372
+    second: zb_WJ_yf|zb_WJ_boot|Take 001|BaseLayer
+  - first:
+      74: 1998331201387801988
+    second: zb_WJ_yf|zb_WJ_Bx|Take 001|BaseLayer
+  - first:
+      74: 1331143935087561594
+    second: zb_WJ_yf|zb_WJ_danjia|Take 001|BaseLayer
+  - first:
+      74: -3528627871388686518
+    second: zb_WJ_yf|zb_wj_duijiangji|Take 001|BaseLayer
+  - first:
+      74: -889333282158873838
+    second: zb_WJ_yf|zb_WJ_kz|Take 001|BaseLayer
+  - first:
+      74: 2485713755269622892
+    second: zb_WJ_yf|zb_wj_shouqiangtao|Take 001|BaseLayer
+  - first:
+      74: -816827080051978935
+    second: zb_WJ_yf|zb_WJ_shouqiang|Take 001|BaseLayer
+  - first:
+      74: -1092942827295728824
+    second: zb_WJ_yf|zb_WJ_yf|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zb_WJ_beixin_mat
+    second: {fileID: 2100000, guid: 85d946c4b82bf9f4f835ce69a766ac47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zb_WJ_legs_mat
+    second: {fileID: 2100000, guid: 32d947a196f9dfe4bb696c038b497c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zb_WJ_yifu_mat
+    second: {fileID: 2100000, guid: c088d52661b7e414abc163ecd8ff080b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zb_g17_mat
+    second: {fileID: 2100000, guid: a14e8c4fe0a8dc5458a6b3ff37f514ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zb_wj_boot_mat
+    second: {fileID: 2100000, guid: 27dd5c0dd93f7c14282867952edb6225, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
