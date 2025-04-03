@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 2cfe5f756111e154cae3ffc9647958bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: polySurface2587
+    100002: polySurface2588
+    100004: //RootNode
+    100006: UV5_0106_1:polySurface222UV___5
+    100008: UV5_0106_1:UV___5pasted__transform1zoulang
+    100010: UV5_0106_1:UV___5pasted__transform1zoulang1
+    100012: UV5_0106_1:UV___5pCube126
+    100014: UV5_0106_1:UV___5polySurface1028
+    100016: UV5_0106_1:UV___5polySurface1029
+    100018: UV5_0106_1:UV___5polySurface1083
+    100020: UV5_0106_1:UV___5polySurface1084
+    100022: UV5_0106_1:UV___5polySurface195
+    100024: UV5_0106_1:UV___5polySurface210
+    100026: UV5_0106_1:UV___5polySurface226
+    100028: UV5_0106_1:UV___5polySurface893
+    100030: UV5_0106_1:UV___5polySurface906
+    100032: UV5_0106_1:UV___5pSphere1
+    100034: UV5_0106_1:UV___5typeMesh1
+    100036: UV5_0106_1:UV___5zoulang1pasted__pasted__Line8692
+    100038: UV5_0106_1:UV___5zoulang1pasted__polySurface1078
+    100040: UV5_0106_1:UV___5zoulang1pasted__polySurface1079
+    100042: UV5_0106_1:UV___5zoulangpasted__pasted__Rectangle011
+    100044: UV5_0106_1:UV___5zoulangpasted__pCylinder28
+    100046: UV5_0106_1:UV___5zoulangpasted__polySurface1078
+    100048: UV5_0106_1:UV___5zoulangpasted__polySurface1079
+    100050: "UV5_0106_1:UV___5\u5BF9\u8C61005"
+    400000: polySurface2587
+    400002: polySurface2588
+    400004: //RootNode
+    400006: UV5_0106_1:polySurface222UV___5
+    400008: UV5_0106_1:UV___5pasted__transform1zoulang
+    400010: UV5_0106_1:UV___5pasted__transform1zoulang1
+    400012: UV5_0106_1:UV___5pCube126
+    400014: UV5_0106_1:UV___5polySurface1028
+    400016: UV5_0106_1:UV___5polySurface1029
+    400018: UV5_0106_1:UV___5polySurface1083
+    400020: UV5_0106_1:UV___5polySurface1084
+    400022: UV5_0106_1:UV___5polySurface195
+    400024: UV5_0106_1:UV___5polySurface210
+    400026: UV5_0106_1:UV___5polySurface226
+    400028: UV5_0106_1:UV___5polySurface893
+    400030: UV5_0106_1:UV___5polySurface906
+    400032: UV5_0106_1:UV___5pSphere1
+    400034: UV5_0106_1:UV___5typeMesh1
+    400036: UV5_0106_1:UV___5zoulang1pasted__pasted__Line8692
+    400038: UV5_0106_1:UV___5zoulang1pasted__polySurface1078
+    400040: UV5_0106_1:UV___5zoulang1pasted__polySurface1079
+    400042: UV5_0106_1:UV___5zoulangpasted__pasted__Rectangle011
+    400044: UV5_0106_1:UV___5zoulangpasted__pCylinder28
+    400046: UV5_0106_1:UV___5zoulangpasted__polySurface1078
+    400048: UV5_0106_1:UV___5zoulangpasted__polySurface1079
+    400050: "UV5_0106_1:UV___5\u5BF9\u8C61005"
+    2100000: UV5_0106_1_lambert28SG2
+    2100002: UV5_0106_2_lambert28SG2
+    2300000: polySurface2587
+    2300002: polySurface2588
+    2300004: UV5_0106_1:polySurface222UV___5
+    2300006: UV5_0106_1:UV___5pasted__transform1zoulang
+    2300008: UV5_0106_1:UV___5pasted__transform1zoulang1
+    2300010: UV5_0106_1:UV___5pCube126
+    2300012: UV5_0106_1:UV___5polySurface1028
+    2300014: UV5_0106_1:UV___5polySurface1029
+    2300016: UV5_0106_1:UV___5polySurface1083
+    2300018: UV5_0106_1:UV___5polySurface1084
+    2300020: UV5_0106_1:UV___5polySurface195
+    2300022: UV5_0106_1:UV___5polySurface210
+    2300024: UV5_0106_1:UV___5polySurface226
+    2300026: UV5_0106_1:UV___5polySurface893
+    2300028: UV5_0106_1:UV___5polySurface906
+    2300030: UV5_0106_1:UV___5pSphere1
+    2300032: UV5_0106_1:UV___5typeMesh1
+    2300034: UV5_0106_1:UV___5zoulang1pasted__pasted__Line8692
+    2300036: UV5_0106_1:UV___5zoulang1pasted__polySurface1078
+    2300038: UV5_0106_1:UV___5zoulang1pasted__polySurface1079
+    2300040: UV5_0106_1:UV___5zoulangpasted__pasted__Rectangle011
+    2300042: UV5_0106_1:UV___5zoulangpasted__pCylinder28
+    2300044: UV5_0106_1:UV___5zoulangpasted__polySurface1078
+    2300046: UV5_0106_1:UV___5zoulangpasted__polySurface1079
+    2300048: "UV5_0106_1:UV___5\u5BF9\u8C61005"
+    3300000: polySurface2587
+    3300002: polySurface2588
+    3300004: UV5_0106_1:polySurface222UV___5
+    3300006: UV5_0106_1:UV___5pasted__transform1zoulang
+    3300008: UV5_0106_1:UV___5pasted__transform1zoulang1
+    3300010: UV5_0106_1:UV___5pCube126
+    3300012: UV5_0106_1:UV___5polySurface1028
+    3300014: UV5_0106_1:UV___5polySurface1029
+    3300016: UV5_0106_1:UV___5polySurface1083
+    3300018: UV5_0106_1:UV___5polySurface1084
+    3300020: UV5_0106_1:UV___5polySurface195
+    3300022: UV5_0106_1:UV___5polySurface210
+    3300024: UV5_0106_1:UV___5polySurface226
+    3300026: UV5_0106_1:UV___5polySurface893
+    3300028: UV5_0106_1:UV___5polySurface906
+    3300030: UV5_0106_1:UV___5pSphere1
+    3300032: UV5_0106_1:UV___5typeMesh1
+    3300034: UV5_0106_1:UV___5zoulang1pasted__pasted__Line8692
+    3300036: UV5_0106_1:UV___5zoulang1pasted__polySurface1078
+    3300038: UV5_0106_1:UV___5zoulang1pasted__polySurface1079
+    3300040: UV5_0106_1:UV___5zoulangpasted__pasted__Rectangle011
+    3300042: UV5_0106_1:UV___5zoulangpasted__pCylinder28
+    3300044: UV5_0106_1:UV___5zoulangpasted__polySurface1078
+    3300046: UV5_0106_1:UV___5zoulangpasted__polySurface1079
+    3300048: "UV5_0106_1:UV___5\u5BF9\u8C61005"
+    4300000: UV5_0106_1:polySurface222UV___5
+    4300002: UV5_0106_1:UV___5polySurface226
+    4300004: UV5_0106_1:UV___5polySurface893
+    4300006: "UV5_0106_1:UV___5\u5BF9\u8C61005"
+    4300008: UV5_0106_1:UV___5polySurface1083
+    4300010: UV5_0106_1:UV___5polySurface1084
+    4300012: UV5_0106_1:UV___5polySurface906
+    4300014: UV5_0106_1:UV___5polySurface210
+    4300016: UV5_0106_1:UV___5polySurface195
+    4300018: UV5_0106_1:UV___5pSphere1
+    4300020: UV5_0106_1:UV___5polySurface1028
+    4300022: UV5_0106_1:UV___5typeMesh1
+    4300024: UV5_0106_1:UV___5polySurface1029
+    4300026: UV5_0106_1:UV___5pCube126
+    4300028: UV5_0106_1:UV___5pasted__transform1zoulang
+    4300030: UV5_0106_1:UV___5zoulangpasted__polySurface1078
+    4300032: UV5_0106_1:UV___5zoulangpasted__polySurface1079
+    4300034: UV5_0106_1:UV___5pasted__transform1zoulang1
+    4300036: UV5_0106_1:UV___5zoulang1pasted__polySurface1078
+    4300038: UV5_0106_1:UV___5zoulang1pasted__polySurface1079
+    4300040: polySurface2588
+    4300042: polySurface2587
+    4300044: UV5_0106_1:UV___5zoulangpasted__pasted__Rectangle011
+    4300046: UV5_0106_1:UV___5zoulangpasted__pCylinder28
+    4300048: UV5_0106_1:UV___5zoulang1pasted__pasted__Line8692
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
