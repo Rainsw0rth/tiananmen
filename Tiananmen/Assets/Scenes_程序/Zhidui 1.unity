@@ -6235,7 +6235,27 @@ PrefabInstance:
     - target: {fileID: -8677993073296571044, guid: 36964e463d918ee46bec10579a49cf38,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8677993073296571044, guid: 36964e463d918ee46bec10579a49cf38,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00026115
+      objectReference: {fileID: 0}
+    - target: {fileID: -8677993073296571044, guid: 36964e463d918ee46bec10579a49cf38,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0753
+      objectReference: {fileID: 0}
+    - target: {fileID: -8677993073296571044, guid: 36964e463d918ee46bec10579a49cf38,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.227
+      objectReference: {fileID: 0}
+    - target: {fileID: -8677993073296571044, guid: 36964e463d918ee46bec10579a49cf38,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0381
       objectReference: {fileID: 0}
     - target: {fileID: -8372116816937101396, guid: 36964e463d918ee46bec10579a49cf38,
         type: 3}
@@ -10504,6 +10524,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -7093066081412709833, guid: 815e1aaa51ef2b04f8c2d4721f0b5b34,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.024
       objectReference: {fileID: 0}
     - target: {fileID: -7019554881966932515, guid: 815e1aaa51ef2b04f8c2d4721f0b5b34,
         type: 3}
@@ -38098,6 +38123,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: 108ab97d1681be3479cedb67ac2796c5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 108ab97d1681be3479cedb67ac2796c5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -63511,7 +63540,7 @@ Transform:
   - {fileID: 2036091061}
   - {fileID: 1402510617}
   m_Father: {fileID: 655976812}
-  m_RootOrder: 25
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5042502838061982979
 GameObject:

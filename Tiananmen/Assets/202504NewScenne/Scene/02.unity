@@ -1329,10 +1329,10 @@ Transform:
   - {fileID: 1832021715}
   - {fileID: 575737458}
   - {fileID: 1075303010}
+  - {fileID: 247366021}
   - {fileID: 17781098}
   - {fileID: 1989971487}
   - {fileID: 89714267}
-  - {fileID: 247366021}
   m_Father: {fileID: 1034603354}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5949,7 +5949,7 @@ LODGroup:
     - renderer: {fileID: 1844474286}
     - renderer: {fileID: 1844474285}
     - renderer: {fileID: 737956818505413293}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!1 &1246844016
 GameObject:
   m_ObjectHideFlags: 0

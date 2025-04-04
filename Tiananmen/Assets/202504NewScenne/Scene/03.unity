@@ -3595,7 +3595,7 @@ LODGroup:
     - renderer: {fileID: 293507309}
     - renderer: {fileID: 293507308}
     - renderer: {fileID: 4917519303547115784}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!4 &401816016
 Transform:
   m_ObjectHideFlags: 0
