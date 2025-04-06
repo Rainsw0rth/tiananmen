@@ -3754,7 +3754,7 @@ LODGroup:
     - renderer: {fileID: 293507309}
     - renderer: {fileID: 293507308}
     - renderer: {fileID: 4917519303547115784}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!4 &401816016
 Transform:
   m_ObjectHideFlags: 0
@@ -11202,7 +11202,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1325249072
 Transform:
   m_ObjectHideFlags: 0
@@ -11226,7 +11226,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1325249071}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 9b45bea2e6d33054b9384020606991d0, type: 2}
   m_CullingMode: 0
@@ -15193,7 +15193,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &1839488533
 AudioListener:
   m_ObjectHideFlags: 0

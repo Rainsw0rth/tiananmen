@@ -2580,7 +2580,7 @@ LODGroup:
     - renderer: {fileID: 807556907}
     - renderer: {fileID: 807556906}
     - renderer: {fileID: 391468960921284128}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!4 &401816016
 Transform:
   m_ObjectHideFlags: 0
@@ -5514,6 +5514,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c2f9b256582d05c42b368f13176c83c7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -868092180845332506, guid: c2f9b256582d05c42b368f13176c83c7,
         type: 3}
@@ -9653,7 +9658,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1325249072
 Transform:
   m_ObjectHideFlags: 0
