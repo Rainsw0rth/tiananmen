@@ -40,6 +40,6 @@ Material:
     - _APNG: 0
     - _Cutoff: 0.5
     - _TXWidth: 512
-    - _U: 2048
-    - _V: 4096
+    - _U: 7500
+    - _V: 15000
     m_Colors: []

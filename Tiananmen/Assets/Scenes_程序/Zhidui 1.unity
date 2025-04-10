@@ -5824,6 +5824,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: "VR\u5168\u666FCamera"
       objectReference: {fileID: 0}
+    - target: {fileID: 500912690720364513, guid: 92ad8492b27d40248ada4207556dd078,
+        type: 3}
+      propertyPath: resolution
+      value: 15000
+      objectReference: {fileID: 0}
+    - target: {fileID: 500912690720364513, guid: 92ad8492b27d40248ada4207556dd078,
+        type: 3}
+      propertyPath: resolutionH
+      value: 7500
+      objectReference: {fileID: 0}
+    - target: {fileID: 500912690720364513, guid: 92ad8492b27d40248ada4207556dd078,
+        type: 3}
+      propertyPath: Mp4Bitrate
+      value: 60000
+      objectReference: {fileID: 0}
+    - target: {fileID: 500912690720364513, guid: 92ad8492b27d40248ada4207556dd078,
+        type: 3}
+      propertyPath: renderQuality
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 500912690720364513, guid: 92ad8492b27d40248ada4207556dd078,
+        type: 3}
+      propertyPath: depth
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 500912690720364517, guid: 92ad8492b27d40248ada4207556dd078,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -33136,7 +33161,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &789399488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40027,7 +40052,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1042709224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67298,7 +67323,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2099265729
 Transform:
   m_ObjectHideFlags: 0
